@@ -1,0 +1,27 @@
+compile time-static dispatch
+runtime -dynamic dispatch
+inheritance
+polymorphism
+abstraction-encapsulation
+
+
+lld-(uml diagram)
+association 
+aggregation
+composition
+
+
+Q) A customer logs into the system(simple-commerce),search for his desired products, add them to the cart and make the payment to order the item.
+
+
+
+docker
+dhcp
+dns
+cidr
+class addressing
+mac address
+osi -layer(computer networking)--each layer protocols 
+
+
+license-source code--open source
